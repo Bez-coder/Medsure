@@ -1,8 +1,8 @@
-# Medsure 🏥
+# Medsure 
 
 **Medsure** is a comprehensive health management and medicine authentication app designed to protect lives by ensuring the authenticity of medications. 
 
-## 🚀 Features
+## Features
 
 - **Medicine Authentication**: Instantly verify the authenticity of medicines by scanning QR codes.
 - **Medication Reminders**: Never miss a dose with high-reliability background notifications that work even when the app is closed.
@@ -12,7 +12,7 @@
 - **Google Sign-In**: Secure and easy authentication using your Google account.
 - **Featured Health Insights**: Stay informed with curated medical articles and quick health tips.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev/) (Dart)
 - **Backend**: [Firebase](https://firebase.google.com/) (Auth, Firestore)
@@ -20,7 +20,7 @@
 - **Icons**: Lucide Icons & Custom Branding
 - **Notifications**: Flutter Local Notifications with Timezone support
 
-## 📦 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -32,7 +32,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/medsure.git
+   git clone https://github.com/bez-coder/medsure.git
    cd medsure
    ```
 
@@ -58,9 +58,9 @@ Medsure implements a "Guest Grace Period." If you use the app without logging in
 
 The app uses `flutter_local_notifications` with a dedicated High Importance channel on Android to ensure medication reminders are delivered exactly on time.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-*Developed with ❤️ to protect lives.*
+*Developed to protect lives.*
