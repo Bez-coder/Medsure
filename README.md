@@ -57,5 +57,6 @@ Medsure implements a "Guest Grace Period." If you use the app without logging in
 ## 🔔 Notifications
 
 The app uses `flutter_local_notifications` with a dedicated High Importance channel on Android to ensure medication reminders are delivered exactly on time.
+
 ---
 *Developed to protect lives.*
